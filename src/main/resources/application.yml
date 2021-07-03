@@ -1,0 +1,11 @@
+amazon:
+  access:
+    key: "YOUR KEY"
+    secret-key: "Your Secrete Key"
+  region: "Region"
+  s3:
+    bucket: "Bucket Name"
+  end-point:
+    url: "Url EndPoint"
+server:
+  port: 8081
